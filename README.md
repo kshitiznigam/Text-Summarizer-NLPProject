@@ -1,5 +1,8 @@
 # Text-Summarizer-Project
 
+![image](https://github.com/kshitiznigam/Text-Summarizer-NLPProject/assets/22857413/a62c98bb-de62-40cc-9eb4-a2c32ea1329e)
+
+
 # Workflows
 
 1. Update config.yaml
